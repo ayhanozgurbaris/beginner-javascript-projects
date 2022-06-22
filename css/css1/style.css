@@ -49,3 +49,11 @@ img {
     margin-bottom: 20px;
     font-size: 12px;
 }
+
+a {
+    padding: 20px;
+    font-family:fantasy;
+    border-radius: 80%;
+    background-color: aqua;
+    text-decoration: wavy;
+}
