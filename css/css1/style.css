@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(100, 226, 50);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(185, 14, 14);
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: grey;
+}
+
+ul {
+    list-style-position: inside;
+}
