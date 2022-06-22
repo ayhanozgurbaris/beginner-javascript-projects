@@ -13,16 +13,10 @@
 
 
 section.arama {
-    
     height: 100px;
     color: #fff;
     width: 100%; 
     background-color: rgb(35, 147, 221);    
-}
-
-.input {
-    display: block;
-    margin : 0 auto;
 }
 
 button {
